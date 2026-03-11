@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luan Sá Muniz dos Santos de Freitas, tenho 23 anos e sou do estado do Estado de São Paulo. Sou Bacharel em Administração , mas sempre senti que faltava algo em Administração, e isso para min era código, desde o primeiro momento que começei a programar eu  me achei, além de bacharel sou Técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP .
+Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Estado de São Paulo. Sou Bacharel em Administração , mas sempre senti que faltava algo em Administração, e isso para min era código, desde o primeiro momento que começei a programar eu  me achei, além de bacharel sou Técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na FIAP .
 
 
 ### 🤖 Linguagens e Tecnologias
