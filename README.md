@@ -80,6 +80,7 @@ Me chamo Luan Sá Muniz dos Santos de Freitas, tenho 23 anos e sou do estado do 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /-->
 <br>
+<br>
 ### 📊 Estatísticas
 
 <p>
