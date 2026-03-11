@@ -82,6 +82,7 @@ Me chamo Luan Sá Muniz dos Santos de Freitas, tenho 23 anos e sou do estado do 
 <br>
 <br>
  📊 Estatísticas
+ <br>
 
 <p>
 <img 
