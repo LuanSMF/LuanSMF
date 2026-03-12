@@ -110,6 +110,6 @@ Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Esta
  <br>
  
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&layout=pie&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&title=Linguagens+mais+usadas" alt="Linguagens mais usadas">
 
 </p>
