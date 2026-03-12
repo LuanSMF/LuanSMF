@@ -103,18 +103,13 @@ Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Esta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /-->
-<!--br>
+<br>
 <br>
  📊 Estatísticas
  <br>
  <br>
  
 <p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  /-->
+<img src="https://camo.githubusercontent.com/9aba8fa2e0770f9642d8add822bdbe90af0e2cd941dd5681bf82f9b549bf4879/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d706965" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&amp;layout=pie" style="max-width: 100%;">
 
 </p>
