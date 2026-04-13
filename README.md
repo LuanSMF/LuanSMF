@@ -110,6 +110,6 @@ Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Esta
  <br>
  
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&layout=pie&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats">
 
 </p>
