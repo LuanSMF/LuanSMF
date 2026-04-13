@@ -102,7 +102,7 @@ Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Esta
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/-->
+
 <br>
 <br>
  📊 Estatísticas
@@ -112,4 +112,4 @@ Me chamo Luan Sá Muniz dos S. de Freitas, tenho 23 anos e sou do estado do Esta
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSMF&layout=pie&cache_seconds=86400">
 
-</p>
+</p>/-->
